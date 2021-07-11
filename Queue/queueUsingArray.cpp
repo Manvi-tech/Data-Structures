@@ -1,7 +1,7 @@
+    //   queue using array
+
 #include <bits/stdc++.h>
 using namespace std;
-
-
 
 class QueueUsingArray {
 	int *data;
